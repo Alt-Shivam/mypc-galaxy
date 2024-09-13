@@ -10,7 +10,7 @@
     # - role: virt_manager
     # - role: virtualbox
     # - role: snap_packages
-    # - role: golang
+    - role: golang
     # - role: wireshark
     # - role: gns3
     # - role: yq
